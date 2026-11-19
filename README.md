@@ -1,8 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,40:0A1F4D,100:00B4FF&section=header&text=R%26N%20Developers&fontSize=58&fontColor=FFFFFF&fontAlignY=62&desc=Transformamos%20ideias%20em%20solu%C3%A7%C3%B5es%20digitais&descSize=20&descAlignY=82&animation=fadeIn" width="100%" alt="R&N Developers" />
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/banner.svg" width="100%" alt="R&N Developers" />
 
-<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/logo.png" width="170" alt="Logo R&N Developers" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/logo.png" width="170" alt="Logo R&N Developers" />
+</p>
 
 <br />
 
@@ -23,7 +25,7 @@ const rn = ["sites", "apps", "scripts", "jogos"]
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 👥 &nbsp;Sobre nós
 
@@ -43,7 +45,7 @@ Nosso objetivo é simples: pegar uma ideia e transformar ela em algo que realmen
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 🛠️ &nbsp;O que fazemos
 
@@ -55,7 +57,7 @@ Nosso objetivo é simples: pegar uma ideia e transformar ela em algo que realmen
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 💻 &nbsp;O que sabemos usar
 
@@ -136,7 +138,7 @@ Nosso ranking, do que mais sabemos pro que ainda estamos aprendendo. **Nosso foc
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 🚀 &nbsp;Projetos
 
@@ -170,7 +172,7 @@ O jogo da velha clássico transformado em algo nosso: simples, divertido e pront
 ![PC](https://img.shields.io/badge/PC-1E90FF?style=for-the-badge&logo=windows&logoColor=white)
 [![Conhecer projeto](https://img.shields.io/badge/Conhecer_projeto-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://inerciamc.fun/)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 🇧🇷 &nbsp;Linguagem R&N
 
@@ -293,7 +295,7 @@ Uma possibilidade de aplicação para projetos que precisam escolher participant
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 📊 &nbsp;Nossa evolução
 
@@ -311,7 +313,7 @@ Além de desenvolver projetos, também compartilhamos um pouco da nossa caminhad
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/divider.svg" width="100%" height="4" alt="" />
 
 ## 📬 &nbsp;Vamos conversar?
 
@@ -325,7 +327,7 @@ Além de desenvolver projetos, também compartilhamos um pouco da nossa caminhad
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00B4FF,60:0A1F4D,100:000000&section=footer&text=R%26N%20Developers%20%C2%A9%202026&fontSize=18&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="" />
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/footer.svg" width="100%" alt="" />
 
 *© 2026 R&N Developers. Todos os direitos reservados.*
 
