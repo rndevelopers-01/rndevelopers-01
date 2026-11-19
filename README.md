@@ -129,6 +129,8 @@ Nosso ranking, do que mais sabemos pro que ainda estamos aprendendo. **Nosso foc
   <tr>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" height="52" alt="Express.js" /><br /><b>Express.js</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="52" alt="Git" /><br /><b>Git</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="52" height="52" alt="Maven" /><br /><b>Maven</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="52" height="52" alt="Gradle" /><br /><b>Gradle</b></td>
   </tr>
 </table>
 
