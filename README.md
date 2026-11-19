@@ -118,6 +118,10 @@ Nosso ranking, do que mais sabemos pro que ainda estamos aprendendo. **Nosso foc
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="52" alt="React" /><br /><b>React</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="52" height="52" alt="Tailwind" /><br /><b>Tailwind</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="52" height="52" alt="Flutter" /><br /><b>Flutter</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="52" height="52" alt="Node.js" /><br /><b>Node.js</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" height="52" alt="Express.js" /><br /><b>Express.js</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="52" alt="Git" /><br /><b>Git</b></td>
   </tr>
 </table>
