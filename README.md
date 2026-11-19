@@ -1,15 +1,21 @@
 <div align="center">
 
-# R&N Developers
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:000000,40:0A1F4D,100:00B4FF&section=header&text=R%26N%20Developers&fontSize=58&fontColor=FFFFFF&fontAlignY=62&desc=Transformamos%20ideias%20em%20solu%C3%A7%C3%B5es%20digitais&descSize=20&descAlignY=82&animation=fadeIn" width="100%" alt="R&N Developers" />
 
-### Transformamos ideias em soluções digitais.
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/logo.png" width="170" alt="Logo R&N Developers" />
 
-Somos a **R&N Developers**, uma equipe de dois jovens desenvolvedores criando sites, aplicativos, scripts, jogos e soluções digitais sob medida.
+<br />
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale_conosco-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5521974614332)
-[![YouTube](https://img.shields.io/badge/YouTube-@RNDevelopers--093-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@RNDevelopers-093)
-[![Instagram](https://img.shields.io/badge/Instagram-@rn.developers__-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rn.developers_)
-[![E-mail](https://img.shields.io/badge/E--mail-rndevelopers093@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rndevelopers093@gmail.com)
+<a href="https://github.com/rndevelopers-01/rndevelopers-01">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00B4FF&background=00000000&center=true&vCenter=true&width=640&lines=Dois+desenvolvedores.+Muitas+ideias.;Um+projeto+de+cada+vez.;Sites+%7C+Apps+%7C+Scripts+%7C+Jogos;Programa%C3%A7%C3%A3o+100%25+em+portugu%C3%AAs+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+</a>
+
+<br /><br />
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Fale_conosco-0A1F4D?style=for-the-badge&logo=whatsapp&logoColor=00B4FF&labelColor=000000)](https://wa.me/5521974614332)
+[![YouTube](https://img.shields.io/badge/YouTube-Nosso_canal-0A1F4D?style=for-the-badge&logo=youtube&logoColor=00B4FF&labelColor=000000)](https://www.youtube.com/@RNDevelopers-093)
+[![Instagram](https://img.shields.io/badge/Instagram-@rn.developers__-0A1F4D?style=for-the-badge&logo=instagram&logoColor=00B4FF&labelColor=000000)](https://instagram.com/rn.developers_)
+[![E-mail](https://img.shields.io/badge/E--mail-Contato-0A1F4D?style=for-the-badge&logo=gmail&logoColor=00B4FF&labelColor=000000)](mailto:rndevelopers093@gmail.com)
 
 ```js
 const rn = ["sites", "apps", "scripts", "jogos"]
@@ -17,140 +23,187 @@ const rn = ["sites", "apps", "scripts", "jogos"]
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
 
-## 👥 Sobre nós
+## 👥 &nbsp;Sobre nós
 
-A R&N Developers nasceu da vontade de transformar ideias em projetos reais. Somos dois adolescentes apaixonados por programação, tecnologia e criação de produtos digitais.
+Somos a **R&N Developers**, uma equipe de dois jovens desenvolvedores criando **sites, aplicativos, scripts, jogos e soluções digitais sob medida**.
 
-Começamos criando nossos próprios projetos e hoje também desenvolvemos soluções para outras pessoas e empresas. Nosso objetivo é simples: pegar uma ideia e transformar ela em algo que realmente possa ser usado.
+A R&N nasceu da vontade de transformar ideias em projetos reais. Somos dois adolescentes apaixonados por programação, tecnologia e criação de produtos digitais. Começamos criando nossos próprios projetos e hoje também desenvolvemos soluções para outras pessoas e empresas.
 
-Ainda estamos construindo nossa história, e cada projeto novo faz parte dela.
+Nosso objetivo é simples: pegar uma ideia e transformar ela em algo que realmente possa ser usado. Ainda estamos construindo nossa história, e cada projeto novo faz parte dela.
 
-> *"Dois desenvolvedores. Muitas ideias. Um projeto de cada vez."*
+> 💙 *"Dois desenvolvedores. Muitas ideias. Um projeto de cada vez."*
 
-| 2 | Projetos | Tecnologia |
+<div align="center">
+
+| 👨‍💻 **2** | 🚀 **Projetos** | ⚡ **Tecnologia** |
 |:---:|:---:|:---:|
 | desenvolvedores | reais no ar | + criatividade |
 
----
+</div>
 
-## 🛠️ O que fazemos
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
 
-| Serviço | Descrição |
-|---|---|
-| 🌐 **Sites** | Sites institucionais, landing pages, lojas e projetos personalizados. |
-| 📱 **Aplicativos** | Aplicativos desenvolvidos de acordo com a necessidade do projeto. |
-| ⚙️ **Scripts** | Automatizações e scripts personalizados. |
-| 🎮 **Jogos** | Desenvolvimento de jogos e experiências interativas. |
-| 🎯 **Soluções sob medida** | Projetos personalizados de acordo com a ideia do cliente. |
+## 🛠️ &nbsp;O que fazemos
 
----
+<div align="center">
 
-## 💻 O que sabemos usar
+| 🌐 Sites | 📱 Aplicativos | ⚙️ Scripts | 🎮 Jogos | 🎯 Sob medida |
+|:---:|:---:|:---:|:---:|:---:|
+| Institucionais, landing pages, lojas e projetos personalizados | Desenvolvidos de acordo com a necessidade do projeto | Automatizações e scripts personalizados | Jogos e experiências interativas | Projetos de acordo com a ideia do cliente |
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+
+## 💻 &nbsp;O que sabemos usar
 
 Nosso ranking, do que mais sabemos pro que ainda estamos aprendendo. **Nosso foco é Python.**
 
-### 🥇 #1 · Nosso foco
+<div align="center">
+
+![Nível 1](https://img.shields.io/badge/%231-Nosso_foco-00B4FF?style=for-the-badge&labelColor=000000)
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br />Python</td>
-    <td align="center" width="110"><img src="https://img.shields.io/badge/R%26N-7C3AED?style=for-the-badge&logoColor=white" height="28" alt="R&N" /><br />R&N 🇧🇷</td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="52" height="52" alt="Python" /><br /><b>Python</b></td>
+    <td align="center" width="130"><img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/rn.png" width="52" height="52" alt="R&N" /><br /><b>R&amp;N</b></td>
   </tr>
 </table>
 
-### 🥈 #2 · Usamos todo dia
+![Nível 2](https://img.shields.io/badge/%232-Usamos_todo_dia-1E90FF?style=for-the-badge&labelColor=000000)
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML" /><br />HTML</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS" /><br />CSS</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br />JavaScript</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br />TypeScript</td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="52" height="52" alt="HTML" /><br /><b>HTML</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="52" height="52" alt="CSS" /><br /><b>CSS</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="52" height="52" alt="JavaScript" /><br /><b>JavaScript</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="52" height="52" alt="TypeScript" /><br /><b>TypeScript</b></td>
   </tr>
 </table>
 
-### 🥉 #3 · Sabemos mais ou menos
+![Nível 3](https://img.shields.io/badge/%233-Sabemos_mais_ou_menos-3B6FD4?style=for-the-badge&labelColor=000000)
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" height="48" alt="Java" /><br />Java</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" height="48" alt="SQL" /><br />SQL</td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="52" height="52" alt="Java" /><br /><b>Java</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="52" height="52" alt="SQL" /><br /><b>SQL</b></td>
   </tr>
 </table>
 
-### 📚 #4 · Aprendendo
+![Nível 4](https://img.shields.io/badge/%234-Aprendendo-1E3A8A?style=for-the-badge&labelColor=000000)
 
 <table>
   <tr>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /><br />C#</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br />C++</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48" height="48" alt="PHP" /><br />PHP</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="48" height="48" alt="Ruby" /><br />Ruby</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="48" height="48" alt="Lua" /><br />Lua</td>
-    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="48" height="48" alt="PowerShell" /><br />PowerShell</td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="52" height="52" alt="C#" /><br /><b>C#</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="52" height="52" alt="C++" /><br /><b>C++</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52" height="52" alt="PHP" /><br /><b>PHP</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="52" height="52" alt="Ruby" /><br /><b>Ruby</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="52" height="52" alt="Lua" /><br /><b>Lua</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="52" height="52" alt="PowerShell" /><br /><b>PowerShell</b></td>
   </tr>
 </table>
 
----
+</div>
 
-## 🚀 Projetos
+### 🧰 Frameworks e ferramentas
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="52" height="52" alt="React" /><br /><b>React</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="52" height="52" alt="Tailwind" /><br /><b>Tailwind</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="52" height="52" alt="Flutter" /><br /><b>Flutter</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="52" alt="Git" /><br /><b>Git</b></td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+
+## 🚀 &nbsp;Projetos
 
 Alguns projetos que fazem parte da nossa caminhada.
 
-### [JM Multimarcas](https://jmmultimarcas.site/)
+### 👕 [JM Multimarcas](https://jmmultimarcas.site/)
+
 Site desenvolvido para a JM Multimarcas, uma loja de camisas de time no atacado e varejo. Qualidade premium para todo o Brasil.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00B4FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1F4D?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1E3A8A?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![Conhecer projeto](https://img.shields.io/badge/Conhecer_projeto-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://jmmultimarcas.site/)
 
-🔗 [jmmultimarcas.site](https://jmmultimarcas.site/)
+### ✈️ [Fui Lá Viagens](https://fuilaviagens.com/)
 
-### [Fui Lá Viagens](https://fuilaviagens.com/)
 Site desenvolvido para uma agência de viagens especializada em pacotes turísticos e excursões. CADASTUR: 56.002.390/0001-93.
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=00B4FF)
+![TypeScript](https://img.shields.io/badge/TypeScript-0A1F4D?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-1E3A8A?style=for-the-badge&logo=tailwindcss&logoColor=white)
+[![Conhecer projeto](https://img.shields.io/badge/Conhecer_projeto-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://fuilaviagens.com/)
 
-🔗 [fuilaviagens.com](https://fuilaviagens.com/)
+### ⭕ [Jogo da Velha](https://inerciamc.fun/)
 
-### [Jogo da Velha](https://inerciamc.fun/)
-O jogo da velha clássico transformado em algo nosso: simples, divertido e pronto pra baixar.
+O jogo da velha clássico transformado em algo nosso: simples, divertido e pronto pra baixar. Feito com **Flutter**, roda no **Android** e no **PC**.
 
-![Jogo](https://img.shields.io/badge/Jogo-8B5CF6?style=flat-square&logo=gamepad&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-0A1F4D?style=for-the-badge&logo=flutter&logoColor=00B4FF)
+![Dart](https://img.shields.io/badge/Dart-000000?style=for-the-badge&logo=dart&logoColor=00B4FF)
+![Android](https://img.shields.io/badge/Android-1E3A8A?style=for-the-badge&logo=android&logoColor=white)
+![PC](https://img.shields.io/badge/PC-1E90FF?style=for-the-badge&logo=windows&logoColor=white)
+[![Conhecer projeto](https://img.shields.io/badge/Conhecer_projeto-00B4FF?style=for-the-badge&logo=googlechrome&logoColor=000000)](https://inerciamc.fun/)
 
-🔗 [inerciamc.fun](https://inerciamc.fun/)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
 
----
+## 🇧🇷 &nbsp;Linguagem R&N
 
-## 🇧🇷 Linguagem R&N
+<div align="center">
 
-> Uma linguagem criada por nós. Programação 100% em português brasileiro. **Em desenvolvimento.**
+<img src="https://raw.githubusercontent.com/rndevelopers-01/rndevelopers-01/main/assets/rn.png" width="140" alt="Logo da linguagem R&N" />
+
+**Uma linguagem criada por nós. Programação 100% em português brasileiro.**
+
+![Status](https://img.shields.io/badge/Status-Em_desenvolvimento-00B4FF?style=for-the-badge&labelColor=000000)
+
+</div>
 
 A R&N é uma linguagem de programação independente, desenvolvida para tornar a programação mais acessível para quem fala português. Você escreve código usando palavras familiares, com uma sintaxe própria e um sistema desenvolvido especialmente para a linguagem.
 
-### Como funciona: do código à execução
+### ⚙️ Do código à execução
+
+```mermaid
+flowchart LR
+    A["📝 Código-fonte<br/>.rn"] --> B["🔧 Compilador<br/>em C"]
+    B --> C["📦 Bytecode<br/>.bin"]
+    C --> D["⚡ Máquina virtual<br/>em C"]
+    style A fill:#000000,stroke:#00B4FF,color:#ffffff,stroke-width:2px
+    style B fill:#0A1F4D,stroke:#00B4FF,color:#ffffff,stroke-width:2px
+    style C fill:#1E3A8A,stroke:#00B4FF,color:#ffffff,stroke-width:2px
+    style D fill:#00B4FF,stroke:#000000,color:#000000,stroke-width:2px
+```
 
 | Etapa | Componente | O que faz |
 |:---:|---|---|
-| 01 | **Código-fonte `.rn`** | É onde você escreve seus programas. |
-| 02 | **Compilador em C** | Analisa as instruções reconhecidas e gera o código compilado. |
-| 03 | **Bytecode `.bin`** | Representa as instruções em formato binário. |
-| 04 | **Máquina virtual em C** | Interpreta o bytecode e executa as operações suportadas. |
+| **01** | **Código-fonte `.rn`** | É onde você escreve seus programas. |
+| **02** | **Compilador em C** | Analisa as instruções reconhecidas e gera o código compilado. |
+| **03** | **Bytecode `.bin`** | Representa as instruções em formato binário. |
+| **04** | **Máquina virtual em C** | Interpreta o bytecode e executa as operações suportadas. |
 
-A R&N não é simplesmente um conjunto de comandos que traduz o código para Python. Ela possui uma estrutura própria de compilação e execução.
+> 💙 A R&N não é simplesmente um conjunto de comandos que traduz o código para Python. Ela possui uma estrutura própria de compilação e execução.
+
+### 💬 O código fala português
+
+Em vez de `print()` ou `console.log()`, a R&N utiliza instruções como `mostrar()`, `entrada()` e `inteiro()`.
 
 **hello.rn**
 ```
 mostrar("Hello World!")
 ```
-
-### O código fala português
-
-Em vez de `print()` ou `console.log()`, a R&N utiliza instruções como `mostrar()`, `entrada()` e `inteiro()`.
 
 **Mostrar mensagens**
 ```
@@ -187,11 +240,13 @@ senao:
     mostrar("Menor de idade")
 ```
 
-> A sintaxe ilustrada apresenta a proposta da linguagem. O funcionamento de cada operador e bloco deve ser validado na versão atual do compilador.
+> ℹ️ A sintaxe ilustrada apresenta a proposta da linguagem. O funcionamento de cada operador e bloco deve ser validado na versão atual do compilador.
 
-### Integrações especiais
+### 🔌 Integrações especiais
 
-**QR Code:** a R&N possui componentes voltados à geração e ao salvamento de QR Codes, permitindo que programas criados na linguagem gerem códigos escaneáveis por celulares e outros dispositivos.
+**📱 QR Code: transforme informações em imagens**
+
+A R&N possui componentes voltados à geração e ao salvamento de QR Codes, permitindo que programas criados na linguagem gerem códigos escaneáveis por celulares e outros dispositivos compatíveis.
 
 - Criar QR Codes com informações de um projeto.
 - Salvar o QR Code gerado como imagem PNG.
@@ -199,7 +254,9 @@ senao:
 
 > A disponibilidade da funcionalidade depende da versão atual do compilador e da máquina virtual.
 
-**Sorteios:** uma possibilidade de aplicação para projetos que precisam escolher participantes ou selecionar um resultado aleatoriamente.
+**🎲 Sorteios: ideias para projetos interativos**
+
+Uma possibilidade de aplicação para projetos que precisam escolher participantes ou selecionar um resultado aleatoriamente.
 
 - Sorteio de nomes e participantes.
 - Seleção aleatória de um ganhador.
@@ -208,36 +265,56 @@ senao:
 
 > Considere os sorteios uma possibilidade de expansão até que os comandos de aleatoriedade e o fluxo completo estejam implementados e testados.
 
-### O que vem por aí
+### 🔭 O que vem por aí
 
-Nosso objetivo é expandir a R&N com:
-
-- Mais operações matemáticas e lógicas
-- Listas e estruturas de dados
-- Funções criadas pelo programador
-- Recursos para arquivos e automação
-- Ferramentas para facilitar o desenvolvimento e a execução de projetos
+- ➕ Mais operações matemáticas e lógicas
+- 📚 Listas e estruturas de dados
+- 🧩 Funções criadas pelo programador
+- 📁 Recursos para arquivos e automação
+- 🛠️ Ferramentas para facilitar o desenvolvimento e a execução de projetos
 
 > Esses itens representam objetivos de evolução, não uma garantia de que todos já estejam disponíveis.
 
+<div align="center">
+
 **R&N: nossas ideias, nossa linguagem, nosso código.**
 
----
+</div>
 
-## 📬 Vamos conversar?
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
 
-Tem uma ideia? Vamos transformar ela em projeto.
+## 📊 &nbsp;Nossa evolução
 
-- 💬 [WhatsApp](https://wa.me/5521974614332)
-- ✉️ [rndevelopers093@gmail.com](mailto:rndevelopers093@gmail.com)
-- 📺 [YouTube](https://www.youtube.com/@RNDevelopers-093)
-- 📸 [Instagram](https://instagram.com/rn.developers_)
-- 💻 [GitHub](https://github.com/rndevelopers-01)
-
----
+Além de desenvolver projetos, também compartilhamos um pouco da nossa caminhada, experiências e coisas que estamos aprendendo.
 
 <div align="center">
 
-© 2026 R&N Developers. Todos os direitos reservados.
+<img src="https://github-readme-stats.vercel.app/api?username=rndevelopers-01&show_icons=true&hide_border=false&bg_color=000000&title_color=00B4FF&text_color=C9D1D9&icon_color=1E90FF&border_color=1E3A8A&rank_icon=github" height="170" alt="Estatísticas do GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rndevelopers-01&layout=compact&bg_color=000000&title_color=00B4FF&text_color=C9D1D9&border_color=1E3A8A" height="170" alt="Linguagens mais usadas" />
+
+<br /><br />
+
+[![GitHub](https://img.shields.io/badge/GitHub-Nossos_códigos_e_projetos-0A1F4D?style=for-the-badge&logo=github&logoColor=00B4FF&labelColor=000000)](https://github.com/rndevelopers-01)
+[![YouTube](https://img.shields.io/badge/YouTube-Vídeos_e_nossa_jornada-0A1F4D?style=for-the-badge&logo=youtube&logoColor=00B4FF&labelColor=000000)](https://www.youtube.com/@RNDevelopers-093)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:000000,50:00B4FF,100:000000" width="100%" alt="" />
+
+## 📬 &nbsp;Vamos conversar?
+
+<div align="center">
+
+**Tem uma ideia? Vamos transformar ela em projeto.**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Falar_com_a_gente-00B4FF?style=for-the-badge&logo=whatsapp&logoColor=000000)](https://wa.me/5521974614332)
+[![E-mail](https://img.shields.io/badge/E--mail-rndevelopers093@gmail.com-0A1F4D?style=for-the-badge&logo=gmail&logoColor=00B4FF&labelColor=000000)](mailto:rndevelopers093@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-@rn.developers__-0A1F4D?style=for-the-badge&logo=instagram&logoColor=00B4FF&labelColor=000000)](https://instagram.com/rn.developers_)
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00B4FF,60:0A1F4D,100:000000&section=footer&text=R%26N%20Developers%20%C2%A9%202026&fontSize=18&fontColor=FFFFFF&fontAlignY=70" width="100%" alt="" />
+
+*© 2026 R&N Developers. Todos os direitos reservados.*
 
 </div>
