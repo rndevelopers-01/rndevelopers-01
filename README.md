@@ -99,17 +99,19 @@ Nosso ranking, do que mais sabemos pro que ainda estamos aprendendo. **Nosso foc
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="52" height="52" alt="C#" /><br /><b>C#</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="52" height="52" alt="C++" /><br /><b>C++</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="52" height="52" alt="PHP" /><br /><b>PHP</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="52" height="52" alt="Ruby" /><br /><b>Ruby</b></td>
   </tr>
   <tr>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="52" height="52" alt="Ruby" /><br /><b>Ruby</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="52" height="52" alt="Lua" /><br /><b>Lua</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" width="52" height="52" alt="PowerShell" /><br /><b>PowerShell</b></td>
-  </tr>
-  <tr>
     <td align="center" width="130"><img src="https://img.shields.io/badge/ASM-00B4FF?style=for-the-badge&labelColor=000000" height="30" alt="Assembly" /><br /><b>Assembly</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="52" height="52" alt="Arduino" /><br /><b>Arduino</b></td>
+  </tr>
+  <tr>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="52" height="52" alt="Rust" /><br /><b>Rust</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="52" height="52" alt="Dart" /><br /><b>Dart</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="52" height="52" alt="Maven" /><br /><b>Maven</b></td>
+    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="52" height="52" alt="Gradle" /><br /><b>Gradle</b></td>
   </tr>
 </table>
 
@@ -129,8 +131,6 @@ Nosso ranking, do que mais sabemos pro que ainda estamos aprendendo. **Nosso foc
   <tr>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="52" height="52" alt="Express.js" /><br /><b>Express.js</b></td>
     <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="52" height="52" alt="Git" /><br /><b>Git</b></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="52" height="52" alt="Maven" /><br /><b>Maven</b></td>
-    <td align="center" width="130"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" width="52" height="52" alt="Gradle" /><br /><b>Gradle</b></td>
   </tr>
 </table>
 
